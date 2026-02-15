@@ -1,5 +1,5 @@
 # Hi there 👋
- I'm Maher Sawsak<br><br>Subtitle: A Third-Year Software Engineering Student at Ostim Technical University 🎓<br><br>Description (About Me):<br><br>I'm a passionate software engineering student based in Turkey. I have a strong foundation in C++ and Object-Oriented Programming, and I'm currently expanding my skills in Python and Data Structures. I love building tools and libraries to solve problems.
+ I'm Maher Sawsak<br><br> A Third-Year Software Engineering Student at Ostim Technical University 🎓<br><br>About Me<br><br>I'm a passionate software engineering student based in Turkey. I have a strong foundation in C++ and Object-Oriented Programming, and I'm currently expanding my skills in Python and Data Structures. I love building tools and libraries to solve problems.
 
 
 ## 🌐 Socials:
